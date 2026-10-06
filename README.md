@@ -18,3 +18,7 @@ adb install -r --no-streaming build/outputs/apk/debug/Tube-debug.apk
 ```
 
 `--no-streaming` helps with large installs over Wi-Fi adb.
+
+## License
+
+MIT, see [LICENSE](LICENSE). GeckoView is a separate dependency under the Mozilla Public License 2.0.
